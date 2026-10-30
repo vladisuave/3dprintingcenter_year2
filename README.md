@@ -4,6 +4,7 @@ Six weekly HTML slide decks (reveal.js) for the 3D Printing Lab, grades 3–5, c
 
 - `index.html` – landing page linking to each week
 - `week1.html` … `week6.html` – one deck per week; each includes the Lab Rules slide and speaker notes
+- `printing-walkthrough.html` – staff guide: STLs to a running print on the P1S (slicing, SD card, filament). Photos in `assets/img/` are from the Bambu Lab Wiki
 - `assets/deck.css` – shared slide styling; `assets/reveal/` – vendored reveal.js 5.1.0 (MIT)
 
 ## Presenting
